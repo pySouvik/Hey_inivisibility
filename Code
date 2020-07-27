@@ -13,7 +13,7 @@ time.sleep(3)
 
 background = 0
 
-# Capturing Static Background Frame
+
 
 for i in range(60):
 
